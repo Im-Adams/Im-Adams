@@ -1,5 +1,5 @@
 👋 Hi, I’m @Im-Adams
-- 🎓 I’m currently pursuing an MCA degree (3rd semester)
+- 🎓 I’m currently pursuing an MCA degree (4th semester)
 - 💻 I’m passionate about Java and Android app development
 - 🌐 I have experience with web technologies
 - 📬 You can reach me at Joseadams0816@gmail.com
